@@ -1,4 +1,5 @@
-module github.com/sergi/go-diff
+// module github.com/sergi/go-diff
+module github.com/truefoundry/go-diff
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
